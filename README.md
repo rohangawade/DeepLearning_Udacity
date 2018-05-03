@@ -7,4 +7,4 @@ Using notMnist [A-J letter] Dataset and develop deep neural network models.
   
 Implemented l2 regularization, dropout to prevent overfitting.
 
-#DeepLearnning #Tensorflow #DeepNeuralNetwor #LogisticRegression  #notMnist #python 
+#DeepLearnning #Tensorflow #DeepNeuralNetwork #LogisticRegression  #notMnist #python 
